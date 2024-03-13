@@ -1,0 +1,127 @@
+
+
+.principal1,
+.principal2,
+.principal3 {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin: 2px;
+}
+.principal2 {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin: 2px;
+    position: relative;
+    left: 350px;
+    bottom: 540px;
+}
+.principal3 {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin: 2px;
+    position: relative;
+    left: 700px;
+    bottom: 1080px;
+}
+.caja1 {
+    background-color: blue;
+    margin: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 120px;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.caja2 {
+    background-color: blue;
+    margin: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 120px;
+    height: 200px;
+    flex-grow: 1;
+}
+
+.caja3 {
+    background-color: blue;
+    margin: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 120px;
+    height: 200px;
+    flex-grow: 1;
+    display: inline-block;
+}
+
+.caja4 {
+    background-color: blue;
+    margin: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 120px;
+    height: 200px;
+    flex-grow: 1;
+    display: inline-block;
+}
+
+.caja1-2,
+.caja2-2,
+.caja3-2,
+.caja4-2,
+.caja5-2,
+.caja6-2,
+.caja7-2,
+.caja8-2,
+.caja9-2 {
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 80px;
+    height: 110px;
+}
+.caja1-3, .caja4-3 {
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 260px;
+    height: 110px;
+}
+.caja2-3, .caja3-3, .caja5-3, .caja6-3 {
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 120px;
+    height: 110px;
+}
